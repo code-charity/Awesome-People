@@ -1,11 +1,18 @@
-<h2> Most of us are not available for hire, 
- yet striving to apply our skills the best possible way</h2>
+
+<h3> We're striving to apply our skills the best possible way! <br>
+(Most of us are not available for hire!)</h3>
 
 ## The Idea: 
+ - Automatically inherting additions/changes from "Awesome-Lists" 
 
-### - Adding people (Github handles) to each item
+ - Adding people (Github handles) to each item. Same line. 
+ -  Everybody can add anybody. And re-sort/order/rank. But only remove themselves.  
 
-### - Automatically inherting additions/changes from Awesome-Lists 
+<details><summary> No moderation might be necessary. Once a line break would be required, 
+unlimited names/explanations can instead overflow into a collapsable section.</summary> 
+
+@______ @______ @______ @______ @______ @______ @______  @______ @______ @______  </details>
+
 
 --------
 
