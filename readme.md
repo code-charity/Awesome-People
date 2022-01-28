@@ -6,13 +6,16 @@
  - Automatically inherting additions/changes from "Awesome-Lists" 
 
  - Adding people (Github handles) to each item. Same line. 
- -  Everybody can add anybody. And re-sort/order/rank. But only remove themselves.  
+ - Everybody can add anybody. And re-sort/order/rank. But only remove themselves.   
+     - No moderation will be necessary. Since the next editor might fix the order, otherwise it doesnt matter 
 
-<details><summary> No moderation might be necessary. Once a line break would be required, 
+<details><summary> Once a line break would be required, making the whole Awesome list longer, then
 unlimited names/explanations can instead overflow into a collapsable section.</summary> 
 
-@______ @______ @______ @______ @______ @______ @______  @______ @______ @______  </details>
+@______ @______ @______ @______ @______ @______ @______ .....  </details>
 
+ - tags only work in issues&discussions, however we ca setup a synced copy as a discussion. For convenience and notifications.
+   
 
 --------
 
