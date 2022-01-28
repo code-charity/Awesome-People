@@ -3,20 +3,21 @@
 (Most of us are not available for hire!)</h3>
 
 ## The Idea: 
- - Automatically inherting additions/changes from "Awesome-Lists" 
+ - Automatically inherting additions/changes from the "Awesome-Lists" and the topic lists 
+   - Plus fitting topic lists inside collabsable sections, all in one document?
 
  - Adding people (Github handles) to each item. Same line. 
- - Everybody can add anybody. And re-sort/order/rank. But only remove themselves.   
+ - Rule: Everybody can add anybody. And re-sort/order/rank. But only remove themselves.   
      - No moderation will be necessary. Since the next editor might fix the order, otherwise it doesnt matter 
 
 <details><summary> Once a line break would be required, making the whole Awesome list longer, then
 unlimited names/explanations can instead overflow into a collapsable section.</summary> 
 
 @______ @______ @______ @______ @______ @______ @______ .....  </details>
-
- - tags only work in issues&discussions, however we ca setup a synced copy as a discussion. For convenience and notifications.
+ 
+   - tags only work in issues&discussions, however we ca setup a synced copy as a discussion. For convenience and notifications.
    
-
+--------
 --------
 
 - [Platforms](#platforms)
