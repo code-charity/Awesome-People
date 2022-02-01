@@ -1,8 +1,7 @@
 
-<h3> We're striving to apply our skills the best possible way! <br>
-(Most of us are not available for hire!)</h3>
+##### We're striving to apply our skills the best possible way! <br> (Most of us are not available for hire.)
 
-## The Idea: 
+### The Idea: 
  - Automatically inherting additions/changes from the "Awesome-Lists" and the topic lists 
    - Plus fitting topic lists inside collabsable sections, all in one document?
 
@@ -13,9 +12,11 @@
 <details><summary> Once a line break would be required, making the whole Awesome list longer, then
 unlimited names/explanations can instead overflow into a collapsable section.</summary> 
 
-@______ @______ @______ @______ @______ @______ @______ .....  </details>
- 
+@______ @______ @______ @______  <br>  @______ @______ @ImprovedTube @___ ................................... </details>
    - tags only work in issues&discussions, however we ca setup a synced copy as a discussion. For convenience and notifications.
+
+ 
+
    
 --------
 --------
